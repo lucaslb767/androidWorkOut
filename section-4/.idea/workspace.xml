@@ -2036,8 +2036,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="13" />
+    <option name="y" value="260" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
