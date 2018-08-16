@@ -11,12 +11,21 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+        Conta conta = new Conta();
+        conta.depositar(100);
+        conta.sacar(50);
+
+        System.out.println(conta.exibirSaldo());
 
 
+
+
+
+        /*
         Cao cao = new Cao();
         cao.correr();
 
-
+        */
 
         /*
         Animal animal = new Animal();

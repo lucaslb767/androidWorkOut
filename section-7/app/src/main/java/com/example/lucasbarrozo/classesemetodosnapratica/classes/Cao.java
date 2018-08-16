@@ -1,4 +1,4 @@
-package com.example.lucasbarrozo.classesemetodosnapratica;
+package com.example.lucasbarrozo.classesemetodosnapratica.classes;
 
  class Cao extends Animal {
 
