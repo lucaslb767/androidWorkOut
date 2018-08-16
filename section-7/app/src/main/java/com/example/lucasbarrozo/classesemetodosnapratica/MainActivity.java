@@ -10,6 +10,23 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
+
+        Cao cao = new Cao();
+        cao.correr();
+
+
+
+        /*
+        Animal animal = new Animal();
+        animal.correr();
+        */
+
+
+
+
+        /*
         Funcionario funcionario = new Funcionario();
         funcionario.nome = "Joao";
         funcionario.salario = 2000;
@@ -17,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         double salarioRecuperado = funcionario.recuperarSalario(150, 30);
         System.out.println("Jão recebe: "+salarioRecuperado);
 
-
+            */
         /*
         Casa minhaCasa = new Casa();
 
