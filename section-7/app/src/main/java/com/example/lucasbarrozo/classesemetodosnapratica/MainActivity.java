@@ -12,7 +12,18 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        ContaBancaria conta = new ContaBancaria(22908);
+
+        AdamSmith adamSmith = new AdamSmith();
+        adamSmith.direitosDeveres();
+
+
+
+
+
+
+
+
+//        ContaBancaria conta = new ContaBancaria(22908);
 
 
 
