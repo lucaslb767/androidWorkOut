@@ -11,11 +11,17 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
+        Pessoa pessoa = new Pessoa();
+        pessoa.exibirDados("Maria", 27);
+
+        /*
         Conta conta = new Conta();
         conta.depositar(100);
         conta.sacar(50);
 
         System.out.println(conta.exibirSaldo());
+        */
 
 
 
