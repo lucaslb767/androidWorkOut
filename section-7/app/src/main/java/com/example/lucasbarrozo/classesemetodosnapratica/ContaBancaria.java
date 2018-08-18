@@ -6,6 +6,12 @@ public class ContaBancaria {
     private double saldo;
 
     public ContaBancaria(){
-        System.out.println("Construtor chamado");
+        System.out.println("Configurações iniciais");
+    }
+
+    public ContaBancaria(int nConta){
+
+        this.numeroConta = nConta;
+        System.out.println("Construtor chamado: "+ this.numeroConta );
     }
 }
